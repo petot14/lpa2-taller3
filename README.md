@@ -129,7 +129,7 @@ lpa2-taller3
 
 2. Utilizando [DBeaver](https://dbeaver.io/), adiciona 5 usuarios y 10 canciones, directo a las tablas.
 
-3. Busca todos los comentarios `# TODO`, realiza los ajustes necesarios, y ejecuta un `commit` por cada uno.
+3. Busca todos los comentarios `# TODO` y `# FIXME`, realiza los ajustes necesarios, y ejecuta un `commit` por cada uno.
 
 4. Prueba el funcionamiento del API, desde la documentación *Swagger*.
 
